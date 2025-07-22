@@ -14,8 +14,8 @@
 
 - [ ] Import the SFOE data
   - [x] Script automated download of latest dataset
-  - [ ] Convert data to GeoJSON or common format
-  - [ ] (Optional) Store data in PostGIS or similar DB
+  - [x] Convert data to GeoJSON or common format
+  - [x] (Optional) Store data in PostGIS or similar DB
 
 - [ ] Provide a REST/GeoJSON endpoint
   - [ ] Serve `/api/vehicles` returning current data
