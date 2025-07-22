@@ -7,7 +7,7 @@
   - [ ] Check update frequency and access method
 
 - [ ] Import the SFOE data
-  - [ ] Script automated download of latest dataset
+  - [x] Script automated download of latest dataset
   - [ ] Convert data to GeoJSON or common format
   - [ ] (Optional) Store data in PostGIS or similar DB
 
