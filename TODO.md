@@ -3,7 +3,7 @@
 - [ ] Understand the SFOE dataset
   - [x] Explore the repository `https://github.com/SFOE/sharedmobility`
   - [x] Identify available data formats (GBFS JSON API, providers CSV)
-  - [ ] Map dataset fields to dashboard needs
+  - [x] Map dataset fields to dashboard needs
     - `provider_id`, `pickup_type`, `vehicle_type`, `station_id`, `bike_id`,
       coordinates, availability flags, region and station details
   - [x] Check update frequency and access method
